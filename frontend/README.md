@@ -12,14 +12,16 @@ This experiment aims to [describe the main goal or objectives of the experiment]
 
 ## Experiment Steps
 
-1. **Step 1**: [Describe the first step]
-2. **Step 2**: [Describe the second step]
-3. **Step 3**: [Describe the third step]
-4. **Step 4**: [Describe any significant observations or results]
+1. **Step 1**: [git init and then add ]
+2. **Step 2**: [git commit with message]
+3. **Step 3**: [git remote add origin with repository link]
+4. **Step 4**: [git push origin main]
    
 ### Output:
 
-- **Expected Output**: [Describe the expected output of the experiment]
+- **Expected Output**: (![image](https://github.com/user-attachments/assets/937a5ef1-c0ee-480e-ad75-bfd3cab71cf8)
+)
+]
 - **Actual Output**: [Mention the actual output achieved, or note if the experiment is still in progress]
 
 ## Installation and Setup
